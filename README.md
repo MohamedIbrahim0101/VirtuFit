@@ -1,33 +1,30 @@
-# VirtuFit
+# VirtuFit 👕
 
-AI-powered Virtual Try-On project.
+### AI-Powered Virtual Try-On
 
-## Project Goal
+VirtuFit is a virtual try-on project that aims to help users visualize how clothing items may look on a person using AI.
 
-Build an MVP that allows users to visualize clothing on a person using AI.
+## 🎯 Project Goal
 
-## Project Structure
+Build an MVP that takes a person image and a clothing image and generates a virtual try-on result.
 
-* `backend/` — API and server logic
-* `frontend/` — User interface
-* `datasets/` — Dataset setup and documentation
-* `models/` — AI model integration
-* `notebooks/` — Experiments in Google Colab
-* `preprocessing/` — Image preprocessing
-* `pose/` — Human pose estimation
-* `segmentation/` — Human parsing and segmentation
-* `tryon/` — Virtual try-on pipeline
-* `tests/` — Automated tests
-* `docs/` — Project documentation
+## 🛠️ Technology Stack
 
-## Current Milestone
+* Python
+* Google Colab
+* PyTorch (depending on the selected model)
+* FastAPI
+* React
+* Git & GitHub
+
+## 👥 Team
+
+Five team members working on AI/ML, dataset preparation, backend development, frontend development, and project coordination.
+
+## 📍 Current Milestone
 
 Milestone 1: Requirements, Research & Setup.
 
-## Team
+## ⚠️ Notes
 
-Five team members.
-
-## Important
-
-Review model, dataset, and dependency licenses before any commercial use.
+The AI model, dataset, and their licenses must be reviewed before commercial use.
